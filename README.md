@@ -1,0 +1,1 @@
+This Jupyter Notebook conducts sentiment analysis on YouTube comments using a combination of the YouTube Data API, Natural Language Toolkit (NLTK), and various Python libraries. The project involves fetching comments from a specified YouTube video, processing and cleaning the data, and performing sentiment analysis using the VADER sentiment intensity analyzer.
